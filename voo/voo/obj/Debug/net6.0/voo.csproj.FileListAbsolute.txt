@@ -1,0 +1,15 @@
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.csproj.AssemblyReference.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.AssemblyInfoInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.AssemblyInfo.cs
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.csproj.CoreCompileInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\bin\Debug\net6.0\voo.exe
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\bin\Debug\net6.0\voo.deps.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\bin\Debug\net6.0\voo.runtimeconfig.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\bin\Debug\net6.0\voo.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\bin\Debug\net6.0\voo.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\refint\voo.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\voo.genruntimeconfig.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\voo\voo\obj\Debug\net6.0\ref\voo.dll

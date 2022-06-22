@@ -1,0 +1,15 @@
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.csproj.AssemblyReference.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.AssemblyInfoInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.AssemblyInfo.cs
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\bin\Debug\net6.0\atividadeMedia.exe
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\bin\Debug\net6.0\atividadeMedia.deps.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\bin\Debug\net6.0\atividadeMedia.runtimeconfig.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\bin\Debug\net6.0\atividadeMedia.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\bin\Debug\net6.0\atividadeMedia.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\refint\atividadeMedia.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\atividadeMedia.genruntimeconfig.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\atividadeMedia\obj\Debug\net6.0\ref\atividadeMedia.dll

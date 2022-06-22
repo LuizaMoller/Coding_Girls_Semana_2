@@ -1,0 +1,15 @@
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\bin\Debug\net6.0\Formas.exe
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\bin\Debug\net6.0\Formas.deps.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\bin\Debug\net6.0\Formas.runtimeconfig.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\bin\Debug\net6.0\Formas.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\bin\Debug\net6.0\Formas.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.csproj.AssemblyReference.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.AssemblyInfoInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.AssemblyInfo.cs
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.csproj.CoreCompileInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\refint\Formas.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\Formas.genruntimeconfig.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\Formas\obj\Debug\net6.0\ref\Formas.dll
