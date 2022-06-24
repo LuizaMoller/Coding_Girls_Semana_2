@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Formas
+namespace voo
 {
-    public abstract class Forma
+    internal class Iniciar
     {
-        public abstract double CalcularArea();
+        public static void Main()
+        {
+            Voo.Menu();
+        }
     }
 }
