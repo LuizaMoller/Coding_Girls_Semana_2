@@ -67,6 +67,8 @@ namespace voo
                 }
                 else
                 {
+                    Console.WriteLine("VOCÊ ESCOLHEU FECHAR O APLICATIVO, ATÉ LOGO!");
+
                     break;
                 }
             }

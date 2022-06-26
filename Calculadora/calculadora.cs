@@ -10,13 +10,13 @@
         public Calculadora()
         {
             Console.WriteLine("Calculadora v1.0 \n");
-            // Inicializar o Menu da Calculadora pela primeira vez.
+            // Inicializa o Menu da Calculadora.
             ApresentarMenu();
         }
 
         private void ApresentarMenu()
         {
-            // Limpando nosso Terminal.
+            // Limpando o Terminal.
             Console.Clear();
 
             // Apresentando as opções que o usuário pode escolher.
@@ -28,6 +28,7 @@
             Console.WriteLine("5 - Reiniciar a calculadora");
             Console.WriteLine("--------------------------------");
             Console.WriteLine("\n");
+            Console.WriteLine($"CALCULANDO: {ValorTotal}");
             Console.WriteLine("Escolha qual operação deseja realizar:");
             Console.Write("> ");
             // Aguardo/Capturo a alternativa escolhida pelo Usuário.
@@ -40,7 +41,7 @@
             bool ConverterValorDoUsuario = double.TryParse(ValorDoUsuario, out double ValorConvertido);
             Console.WriteLine($"Você escolheu {EscolhaDoUsuario}");
 
-            // Tratar as Excessões das Operações.
+            // Trata as Excessões das Operações.
             try
             {
                 // Se for possível converter o valor do Usuário poderá realizar a operação matemática.
@@ -100,7 +101,7 @@
         {
             ValorTotal += Valor;
 
-            //ApresentarMenu();
+            ApresentarMenu();
 
         }
 
