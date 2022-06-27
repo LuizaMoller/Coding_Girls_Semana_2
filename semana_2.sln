@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formas", "Formas\Formas.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "voo", "voo\voo\voo.csproj", "{DC36D62C-4D31-4DEC-825D-75E5B3163C3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alunos", "Alunos\Alunos.csproj", "{4E9FD44B-FE53-423D-BEF7-B146E6BBD77F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alunos", "Alunos\Alunos.csproj", "{4E9FD44B-FE53-423D-BEF7-B146E6BBD77F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MundoAnimal", "MundoAnimal\MundoAnimal.csproj", "{D4420BC0-A9A4-4A56-8D6D-CD46DC7E0E0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4E9FD44B-FE53-423D-BEF7-B146E6BBD77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E9FD44B-FE53-423D-BEF7-B146E6BBD77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E9FD44B-FE53-423D-BEF7-B146E6BBD77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4420BC0-A9A4-4A56-8D6D-CD46DC7E0E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4420BC0-A9A4-4A56-8D6D-CD46DC7E0E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4420BC0-A9A4-4A56-8D6D-CD46DC7E0E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4420BC0-A9A4-4A56-8D6D-CD46DC7E0E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

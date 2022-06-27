@@ -1,0 +1,15 @@
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\bin\Debug\net6.0\MundoAnimal.exe
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\bin\Debug\net6.0\MundoAnimal.deps.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\bin\Debug\net6.0\MundoAnimal.runtimeconfig.json
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\bin\Debug\net6.0\MundoAnimal.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\bin\Debug\net6.0\MundoAnimal.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.csproj.AssemblyReference.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.AssemblyInfoInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.AssemblyInfo.cs
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.csproj.CoreCompileInputs.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\refint\MundoAnimal.dll
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.pdb
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\MundoAnimal.genruntimeconfig.cache
+C:\Users\bitolindo\Desktop\marina\coding_girls\semana_2\MundoAnimal\obj\Debug\net6.0\ref\MundoAnimal.dll
