@@ -6,7 +6,8 @@ if [ -n "$(git status - porcelain)" ];
 then
  echo "IT IS CLEAN"
 else
+ git pull origin master	
  git status
  echo "Pushing data to remote server!!!"
- git push -u origin master
+ git push origin master
 fi
